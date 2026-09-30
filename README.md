@@ -4,9 +4,8 @@ A lightweight Streamlit demo of **RepoPilot**, an AI-powered code repository ass
 
 The main RepoPilot project is a full-stack application with separate frontend, backend, and AI services. This repository provides a simplified Streamlit version of the AI functionality for easy deployment and demonstration.
 
-### 🚀 Live Demo
+### 🚀 Live Demo: https://repopilotdemolink-cv6x5qntvafjxwd5ag8bzg.streamlit.app/
 
-[Try RepoPilot](https://repopilotdemolink-cv6x5qntvafjxwd5ag8bzgz.streamlit.app/)
 
 ### 🛠️ Tech Stack
 
