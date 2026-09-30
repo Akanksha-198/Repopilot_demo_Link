@@ -1,0 +1,10 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+workspace/
+chroma_db/
+*.backup
+.streamlit/secrets.toml
+streamlit_app.py.bak
